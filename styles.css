@@ -699,6 +699,10 @@ button { font: inherit; color: inherit; }
 .guide__item h3 { font-size: 1.25rem; }
 .guide__item p { margin-top: 12px; max-width: 36rem; color: var(--ink-2); }
 .guide__item a { color: var(--accent-ink); }
+.guide__item .dive__list { margin-top: 16px; max-width: 36rem; color: var(--ink-2); }
+.guide__key { margin-bottom: clamp(32px, 4vw, 48px); padding: 24px 28px; max-width: 48rem; }
+.guide__key h3 { font-size: 1.1rem; }
+.guide__key .dive__list { margin-top: 16px; }
 
 /* ---------- How it works: the line draws when the list reveals ---------- */
 /* Phone: one segment per gap, drawn in turn. Desktop: one line across the three circles. */

@@ -5,7 +5,7 @@
 ## Pages
 
 - [Multi-currency account with stablecoin wallets | Ibanora](https://ibanora.com/): Open a multi-currency account for EUR, USD and GBP, make cross-border payments and hold stablecoins in a wallet next to it. Sign up online or talk to us.
-- [Multi-currency business account for EUR, USD, GBP | Ibanora](https://ibanora.com/accounts/business/): A multi-currency business account to collect from customers, pay suppliers and teams abroad, and hold EUR, USD, GBP and more. Sign up or talk to our team.
+- [Multi-Currency Business Account: hold EUR, USD, GBP | Ibanora](https://ibanora.com/accounts/business/): A multi-currency business account to collect from customers, pay suppliers and teams abroad, and hold EUR, USD, GBP and more. Sign up or talk to our team.
 - [Euro account: hold, send and receive euros | Ibanora](https://ibanora.com/accounts/eur/): Looking for a euro bank account? An Ibanora euro account lets you hold, convert, send and receive EUR next to USD and GBP. Sign up online or talk to us.
 - [GBP account: hold, send and receive pounds | Ibanora](https://ibanora.com/accounts/gbp/): Hold, convert, send and receive pounds sterling with an Ibanora GBP account, next to your EUR and USD balances. Sign up online or talk to our team first.
 - [Personal multi-currency account for EUR, USD, GBP | Ibanora](https://ibanora.com/accounts/personal/): Open a personal multi-currency account to hold, convert and send EUR, USD, GBP and more, with transfers routed through stablecoins. Sign up online today.
@@ -17,6 +17,6 @@
 - [Wise vs Revolut: fees, accounts and who suits whom | Ibanora](https://ibanora.com/blog/wise-vs-revolut/): Wise vs Revolut compared from their own pages as of November 2026: plans, currencies, exchange pricing, transfers, cards, business accounts and crypto.
 - [Contact Ibanora | Talk to us](https://ibanora.com/contact/): Talk to Ibanora about personal or business accounts, cross-border payments, stablecoin wallets or ramps. Send an inquiry and we reply by email.
 - [Disclaimer | Ibanora](https://ibanora.com/disclaimer/): How Ibanora is set up: a technology brand, not a bank, working with its partner Mosta Payments Ltd., a registered Canadian payment service provider.
-- [Cross-border payments for people and businesses | Ibanora](https://ibanora.com/payments/): Make cross-border payments in EUR, USD, GBP and more, routed through stablecoins. See what your recipient gets before you send, then track each payment.
+- [Cross-Border & International Business Payments | Ibanora](https://ibanora.com/payments/): Send and receive international business payments in EUR, USD, GBP and more, routed through stablecoins. See what your recipient gets before you send, then track each payment.
 - [Crypto on-ramp and off-ramp for stablecoins | Ibanora](https://ibanora.com/ramps/): Buy stablecoins with EUR, USD or GBP, or turn stablecoins back into money in a bank account, with the Ibanora crypto on-ramp and off-ramp. Sign up online.
-- [Stablecoin wallet and crypto wallets for business | Ibanora](https://ibanora.com/wallets/): Hold, send and receive stablecoins in an Ibanora stablecoin wallet next to your accounts, and ask about crypto wallets for your business users. Sign up online.
+- [Stablecoin Wallet for Business & Personal Use | Ibanora](https://ibanora.com/wallets/): Hold, send and receive stablecoins in an Ibanora stablecoin wallet next to your accounts, and ask about crypto wallets for your business users. Sign up online.
