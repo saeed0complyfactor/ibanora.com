@@ -1429,6 +1429,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ibanora.com/blog/"/>
   </url>
   <url>
+    <loc>https://ibanora.com/blog/iban-vs-routing-number/</loc>
+    <lastmod>2026-11-24</lastmod>
+  </url>
+  <url>
     <loc>https://ibanora.com/blog/revolut-alternatives/</loc>
     <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://ibanora.com/blog/revolut-alternatives/"/>
