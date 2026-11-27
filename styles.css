@@ -232,6 +232,13 @@ button { font: inherit; color: inherit; }
 .footer__cols a { color: var(--ink-2); text-decoration: none; font-size: .9375rem; transition: color .2s var(--ease); }
 .footer__cols a:hover { color: var(--ink); }
 .footer__legal { margin-top: 56px; padding-top: 28px; border-top: 1px solid var(--line); max-width: 1000px; font-size: .8125rem; line-height: 1.6; color: var(--ink-3); }
+.footer__cookies { margin-top: 12px; padding: 0; border: 0; background: none; color: var(--ink-3); font-size: .8125rem; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.footer__cookies:hover { color: var(--ink); }
+
+/* Cookie banner: hidden until js/analytics.js shows it; gone once the visitor chooses. */
+.consent { position: fixed; z-index: 40; inset-inline: var(--gutter); bottom: var(--gutter); max-width: 440px; padding: 16px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); box-shadow: 0 16px 40px -16px rgba(13,31,23,.28); color: var(--ink-2); font-size: .875rem; line-height: 1.5; }
+.consent a { color: var(--accent-ink); }
+.consent__btns { display: flex; justify-content: flex-end; gap: 8px; margin-top: 12px; }
 
 /* ---------- Simple text pages (disclaimer) ---------- */
 .prose { max-width: 720px; }

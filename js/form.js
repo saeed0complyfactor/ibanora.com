@@ -64,6 +64,7 @@ export function initInquiryForm(form, { config = SITE, fetchFn = fetch } = {}) {
       const out = await res.json().catch(() => ({}));
       if (!res.ok || out.success === false) throw new Error('http');
       show(msgs.ok, 'ok');
+      window.gtag?.("event", "generate_lead", { form: "inquiry" });
       form.reset();
     } catch (err) {
       show(err.message === 'no-endpoint' ? msgs.offline : msgs.error, 'err');
