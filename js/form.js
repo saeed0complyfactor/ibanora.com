@@ -59,12 +59,12 @@ export function initInquiryForm(form, { config = SITE, fetchFn = fetch } = {}) {
       if (!config.web3formsKey) throw new Error('no-endpoint');
       const data = Object.fromEntries(new FormData(form));
       if (data.botcheck) throw new Error('http');
-      const payload = { ...data, access_key: config.web3formsKey, replyto: data.email, name: `${data.first_name} ${data.last_name}` };
+      const payload = { ...data, access_key: config.web3formsKey, replyto: data.email, name: data.name ?? `${data.first_name} ${data.last_name}` };
       const res = await fetchFn(ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload) });
       const out = await res.json().catch(() => ({}));
       if (!res.ok || out.success === false) throw new Error('http');
       show(msgs.ok, 'ok');
-      window.gtag?.("event", "generate_lead", { form: "inquiry" });
+      window.gtag?.("event", "generate_lead", { form: form.dataset.lead || "inquiry" });
       form.reset();
     } catch (err) {
       show(err.message === 'no-endpoint' ? msgs.offline : msgs.error, 'err');
